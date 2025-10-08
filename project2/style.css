@@ -1,0 +1,14 @@
+.one{  
+    border: 2px solid red;
+    padding: 5px;
+}
+.two{  
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 5px;
+}
+.three{  
+    border: 2px solid red;
+    border-radius: 8px;
+    padding: 5px;
+}
